@@ -60,8 +60,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\GcExample.cs" />
+    <Compile Include="Assets\propagation.cs" />
     <Compile Include="Assets\Properties.cs" />
     <Compile Include="Assets\Properties2.cs" />
+    <Compile Include="Assets\script01.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/Students.HP17/Documents/betts/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
